@@ -11,7 +11,7 @@ Version: 0.1.0
 Maintainer: Felipe Figueiredo <philsf79@gmail.com>
 # Pre-Depends: <comma-separated list of packages>
 # Depends: <comma-separated list of packages>
-Recommends: ssh, rsync, htop, aptitude, colordiff, vim, emacs, auctex, texlive-latex-recommended, texlive-bibtex-extra, texlive-math-extra, prosper, bioperl, psh, r-recommended, rstudio, mendeleydesktop, pybliographer, build-essential, devscripts, packaging-dev, harden-development, mysql-client, mysql-server, sqlite3-doc, sqlite-doc, bzr, git-core, subversion, bzr-builddeb, bzr-gtk, bzr-svn, bzr-git, git-svn, bzrtools, antiword, untex, odt2txt, dos2unix, ibrazilian, iportuguese, iamerican, aspell-pt, aspell-en, most, gnuplot, octave3.2-doc, octave3.2-emacsen
+Recommends: ssh, rsync, htop, aptitude, colordiff, vim, emacs, auctex, texlive-latex-recommended, texlive-bibtex-extra, texlive-math-extra, prosper, bioperl, psh, r-recommended, rstudio, mendeleydesktop, pybliographer, build-essential, devscripts, packaging-dev, harden-development, mysql-client, mysql-server, sqlite3-doc, sqlite-doc, bzr, git-core, subversion, bzr-builddeb, bzr-gtk, bzr-svn, bzr-git, git-svn, bzrtools, antiword, untex, odt2txt, dos2unix, ibrazilian, iportuguese, iamerican, aspell-pt, aspell-en, most, gnuplot, octave3.2-doc, octave3.2-emacsen, byobu
 Suggests: pdl, nautilus-bzr, sun-java6-jre
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
