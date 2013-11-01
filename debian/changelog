@@ -1,3 +1,11 @@
+philsf-likes-workstation (0.1.1) UNRELEASED; urgency=low
+
+  * Added: libdevel-repl-perl (alternative to psh), git-doc, bzr-doc, dvc, equivs.
+  * Downgraded: bzr-gtk.
+  * Removed: octave3.2-emacsen.
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 31 Oct 2013 22:21:13 -0200
+
 philsf-likes-workstation (0.1) UNRELEASED; urgency=low
 
   * Initial release.
