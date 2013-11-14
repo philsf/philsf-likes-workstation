@@ -11,7 +11,7 @@ Version: 0.1.1
 Maintainer: Felipe Figueiredo <philsf79@gmail.com>
 # Pre-Depends: <comma-separated list of packages>
 # Depends: <comma-separated list of packages>
-Recommends: ssh, rsync, htop, aptitude, colordiff, vim, emacs, dvc, auctex, texlive-latex-recommended, texlive-latex-extra, texlive-lang-english, texlive-lang-portuguese, texlive-bibtex-extra, texlive-math-extra, texlive-publishers, prosper, bioperl, psh | libdevel-repl-perl, r-recommended, rstudio, mendeleydesktop, pybliographer, build-essential, devscripts, packaging-dev, harden-development, mysql-client, mysql-server, sqlite3-doc, sqlite-doc, bzr, bzr-doc, git-core, git-doc, subversion, bzr-builddeb, bzr-svn, bzr-git, git-svn, bzrtools, antiword, untex, odt2txt, dos2unix, ibrazilian, iportuguese, iamerican, aspell-pt, aspell-en, most, gnuplot, octave-doc, byobu, equivs
+Recommends: ssh, rsync, htop, aptitude, colordiff, vim, emacs, dvc, auctex, texlive-latex-recommended, texlive-latex-extra, texlive-lang-english, texlive-lang-portuguese, texlive-bibtex-extra, texlive-math-extra, texlive-publishers, prosper, bioperl, psh | libdevel-repl-perl, r-recommended, rstudio, mendeleydesktop, pybliographer, build-essential, devscripts, packaging-dev, harden-development, mysql-client, mysql-server, sqlite3-doc, sqlite-doc, bzr, bzr-doc, git-core, git-doc, subversion, bzr-builddeb, bzr-svn, bzr-git, git-svn, bzrtools, antiword, untex, odt2txt, dos2unix, ibrazilian, iportuguese, iamerican, aspell-pt, aspell-en, most, gnuplot, octave-doc, byobu, equivs, ubuntu-minimal, ubuntu-standard,
 Suggests: pdl, nautilus-bzr, sun-java6-jre, bzr-gtk
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
