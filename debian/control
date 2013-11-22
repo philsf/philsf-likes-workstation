@@ -7,7 +7,7 @@ Priority: optional
 Standards-Version: 3.9.2
 
 Package: philsf-likes-workstation
-Version: 0.1.1
+Version: 0.1.2
 Maintainer: Felipe Figueiredo <philsf79@gmail.com>
 # Pre-Depends: <comma-separated list of packages>
 # Depends: <comma-separated list of packages>
