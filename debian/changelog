@@ -1,3 +1,13 @@
+philsf-likes-workstation (0.1.2) UNRELEASED; urgency=low
+
+  * Added (Recommends): texlive-latex-extra, texlive-lang-english,
+	texlive-lang,portuguese, texlive-publishers, ubuntu-minimal and
+	ubuntu-standard.
+  * Added (Suggests): bzr-explorer.
+  * Demoted: bzr-svn, git-svn.
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 22 Nov 2013 14:17:10 -0200
+
 philsf-likes-workstation (0.1.1) UNRELEASED; urgency=low
 
   * Added: libdevel-repl-perl (alternative to psh), git-doc, bzr-doc, dvc, equivs.
