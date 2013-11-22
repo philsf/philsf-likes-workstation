@@ -1,16 +1,19 @@
 ### Commented entries have reasonable defaults.
 ### Uncomment to edit them.
-# Source: <source package name; defaults to package name>
+Source: philsf-likes-workstation
 Section: metapackages
 Priority: optional
+Maintainer: Felipe Figueiredo <philsf79@gmail.com>
 # Homepage: <enter URL here; no default>
-Standards-Version: 3.9.2
+Build-Depends: debhelper (>= 7), germinate
+Standards-Version: 3.9.4
+
 
 Package: philsf-likes-workstation
-Version: 0.1.2
-Maintainer: Felipe Figueiredo <philsf79@gmail.com>
+# Version: 0.1.2
+# Maintainer: Felipe Figueiredo <philsf79@gmail.com>
 # Pre-Depends: <comma-separated list of packages>
-# Depends: <comma-separated list of packages>
+Depends: ${misc:Depends}
 Recommends: ssh, rsync, htop, aptitude, colordiff, vim, emacs, dvc, auctex, texlive-latex-recommended, texlive-latex-extra, texlive-lang-english, texlive-lang-portuguese, texlive-bibtex-extra, texlive-math-extra, texlive-publishers, prosper, bioperl, psh | libdevel-repl-perl, r-recommended, rstudio, mendeleydesktop, pybliographer, build-essential, devscripts, packaging-dev, harden-development, mysql-client, mysql-server, sqlite3-doc, sqlite-doc, bzr, bzr-doc, git-core, git-doc, subversion, bzr-builddeb, bzr-git, bzrtools, antiword, untex, odt2txt, dos2unix, ibrazilian, iportuguese, iamerican, aspell-pt, aspell-en, most, gnuplot, octave-doc, byobu, equivs, ubuntu-minimal, ubuntu-standard,
 Suggests: pdl, nautilus-bzr, sun-java6-jre, bzr-explorer | bzr-gtk, bzr-svn, git-svn,
 # Provides: <comma-separated list of packages>
