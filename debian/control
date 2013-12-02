@@ -70,13 +70,13 @@ Recommends: ssh,
  ubuntu-minimal, 
  ubuntu-standard, 
  libfile-sharedir-install-perl,
-Suggests: pdl, 
- nautilus-bzr, 
- sun-java6-jre, 
- bzr-explorer | bzr-gtk, 
+Suggests: bzr-explorer | bzr-gtk, 
  bzr-svn, 
  git-svn,
-# Provides: <comma-separated list of packages>
+ nautilus-bzr, 
+ pdl, 
+ sun-java6-jre, 
+ # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
 Architecture: all
 # Copyright: <copyright file; defaults to GPL2>
