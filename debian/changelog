@@ -1,3 +1,10 @@
+philsf-likes-workstation (0.1.4) saucy; urgency=low
+
+  * Added (Recommends): libfile-sharedir-install-perl.
+  * Indented and sorted: Recommends and Suggests.
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Mon, 02 Dec 2013 00:46:10 -0200
+
 philsf-likes-workstation (0.1.3) saucy; urgency=low
 
   * Fixed packaging. No more equivs-build, now builds with debuild.
