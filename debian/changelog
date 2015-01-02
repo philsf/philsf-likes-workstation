@@ -1,3 +1,9 @@
+philsf-likes-workstation (0.1.5) trusty; urgency=low
+
+  * Added (Recommends): python-mode, python-numpy
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 01 Jan 2015 23:45:46 -0200
+
 philsf-likes-workstation (0.1.4) saucy; urgency=low
 
   * Added (Recommends): libfile-sharedir-install-perl.
