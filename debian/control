@@ -76,8 +76,8 @@ Suggests: bzr-explorer | bzr-gtk,
  bzr-svn, 
  git-svn,
  nautilus-bzr, 
+ oracle-java7-installer| oracle-java6-installer | sun-java6-jre, 
  pdl, 
- sun-java6-jre, 
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
 Architecture: all
