@@ -1,4 +1,10 @@
-philsf-likes-workstation (0.1.8) UNRELEASED; urgency=medium
+philsf-likes-workstation (0.2.0) UNRELEASED; urgency=medium
+
+  * Packages updated to 2018 versions and names
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 18 May 2018 14:20:10 -0300
+
+philsf-likes-workstation (0.1.8) utopic; urgency=medium
 
   * Added (Recommends): git.
 
