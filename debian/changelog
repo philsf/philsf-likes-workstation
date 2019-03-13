@@ -2,6 +2,7 @@ philsf-likes-workstation (0.3.0) UNRELEASED; urgency=medium
 
   * emacs versions included (optionally)
   * Added (Recommends): r-base-dev
+  * emacs packages removed (auctex, ess)
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 13 Mar 2019 12:37:39 -0300
 
