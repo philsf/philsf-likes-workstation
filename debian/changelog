@@ -5,6 +5,7 @@ philsf-likes-workstation (0.3.0) UNRELEASED; urgency=medium
   * emacs packages removed (auctex, ess)
   * Added (Suggests): dev libs for compiling R packages from CRAN
   * Removed (Suggests): java and Perl lib
+  * Added (Recommends): pandoc
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 13 Mar 2019 12:37:39 -0300
 
