@@ -1,4 +1,4 @@
-philsf-likes-workstation (0.3.0) UNRELEASED; urgency=medium
+philsf-likes-workstation (0.3.0) cosmic; urgency=medium
 
   * emacs versions included (optionally)
   * Added (Recommends): r-base-dev
@@ -7,7 +7,7 @@ philsf-likes-workstation (0.3.0) UNRELEASED; urgency=medium
   * Removed (Suggests): java and Perl lib
   * Added (Recommends): pandoc
 
- -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 13 Mar 2019 12:37:39 -0300
+ -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 13 Mar 2019 13:06:48 -0300
 
 philsf-likes-workstation (0.2.0) artful; urgency=medium
 
