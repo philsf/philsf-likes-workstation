@@ -1,3 +1,9 @@
+philsf-likes-workstation (0.3.2) cosmic; urgency=medium
+
+  * Version collected from the changelog.
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 14 Mar 2019 16:17:33 -0300
+
 philsf-likes-workstation (0.3.1) cosmic; urgency=medium
 
   * Packages related to statistical analyses moved to philsf-likes-stats package
