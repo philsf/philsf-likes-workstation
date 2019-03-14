@@ -68,6 +68,7 @@ Suggests: bzr,
  git-svn,
  magit,
  nautilus-bzr,
+ philsf-likes-stats,
  pdl,
  psh | libdevel-repl-perl,
 # Provides: <comma-separated list of packages>

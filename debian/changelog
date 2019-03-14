@@ -1,6 +1,7 @@
 philsf-likes-workstation (0.3.1) UNRELEASED; urgency=medium
 
   * Packages related to statistical analyses moved to philsf-likes-stats package
+  * Added (Suggests): philsf-likes-stats
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 14 Mar 2019 16:05:42 -0300
 
