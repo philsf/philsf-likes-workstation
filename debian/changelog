@@ -1,3 +1,9 @@
+philsf-likes-workstation (0.3.4) UNRELEASED; urgency=medium
+
+  * Added (Recommends): samba
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 14 May 2020 20:20:05 -0300
+
 philsf-likes-workstation (0.3.3) focal; urgency=medium
 
   * Added (Recommends): default-jdk, ecryptfs-utils
