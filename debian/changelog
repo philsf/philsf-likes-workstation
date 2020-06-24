@@ -1,3 +1,9 @@
+philsf-likes-workstation (0.3.5) UNRELEASED; urgency=medium
+
+  * Added (Recommends): mlocate
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 24 Jun 2020 02:39:08 -0300
+
 philsf-likes-workstation (0.3.4) focal; urgency=medium
 
   * Added (Recommends): samba
