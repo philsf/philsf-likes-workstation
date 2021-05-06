@@ -1,4 +1,4 @@
-philsf-likes-workstation (0.3.5) UNRELEASED; urgency=medium
+philsf-likes-workstation (0.3.5) groovy; urgency=medium
 
   * Added (Recommends): mlocate|locate
 
