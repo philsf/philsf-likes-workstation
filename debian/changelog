@@ -1,9 +1,9 @@
-philsf-likes-workstation (0.3.6) UNRELEASED; urgency=medium
+philsf-likes-workstation (0.3.6) groovy; urgency=medium
 
   * Added (Recommends): git-all
   * Demoted (Suggests): dvc
 
- -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 06 May 2021 00:23:44 -0300
+ -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 06 May 2021 00:27:37 -0300
 
 philsf-likes-workstation (0.3.5) groovy; urgency=medium
 
