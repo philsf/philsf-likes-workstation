@@ -1,8 +1,8 @@
-philsf-likes-workstation (0.3.7) UNRELEASED; urgency=medium
+philsf-likes-workstation (0.3.7) hirsute; urgency=medium
 
   * Added (Recommends): rabbitvcs-nautilus
 
- -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 04 Jun 2021 22:43:42 -0300
+ -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 04 Jun 2021 22:44:49 -0300
 
 philsf-likes-workstation (0.3.6) groovy; urgency=medium
 
