@@ -2,6 +2,7 @@ philsf-likes-workstation (0.3.8) UNRELEASED; urgency=medium
 
   * Removed (Recommends): sqlite
   * Fixed (Recommends): ecryptfs-utils
+  * Demoted (Suggests): gnuplot, octave-doc
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Sat, 26 Jun 2021 02:40:44 -0300
 
