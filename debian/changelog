@@ -1,10 +1,10 @@
-philsf-likes-workstation (0.3.8) UNRELEASED; urgency=medium
+philsf-likes-workstation (0.3.8) hirsute; urgency=medium
 
   * Removed (Recommends): sqlite
   * Fixed (Recommends): ecryptfs-utils
   * Demoted (Suggests): gnuplot, octave-doc
 
- -- Felipe Figueiredo <philsf79@gmail.com>  Sat, 26 Jun 2021 02:40:44 -0300
+ -- Felipe Figueiredo <philsf79@gmail.com>  Sat, 26 Jun 2021 02:50:33 -0300
 
 philsf-likes-workstation (0.3.7) hirsute; urgency=medium
 
