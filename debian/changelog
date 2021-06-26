@@ -1,3 +1,9 @@
+philsf-likes-workstation (0.3.8) UNRELEASED; urgency=medium
+
+  * Removed (Recommends): sqlite
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Sat, 26 Jun 2021 02:40:44 -0300
+
 philsf-likes-workstation (0.3.7) hirsute; urgency=medium
 
   * Added (Recommends): rabbitvcs-nautilus
