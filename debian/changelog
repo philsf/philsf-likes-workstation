@@ -1,8 +1,8 @@
-philsf-likes-workstation (0.3.9) UNRELEASED; urgency=medium
+philsf-likes-workstation (0.3.9) jammy; urgency=medium
 
   * Added (Suggests): code
 
- -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 17 Jun 2022 12:07:34 -0300
+ -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 17 Jun 2022 12:20:20 -0300
 
 philsf-likes-workstation (0.3.8) hirsute; urgency=medium
 
