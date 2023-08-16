@@ -1,3 +1,9 @@
+philsf-likes-workstation (0.3.9ubuntu1) UNRELEASED; urgency=medium
+
+  * Added (Recommends): gh
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 16 Aug 2023 10:02:00 -0300
+
 philsf-likes-workstation (0.3.9) jammy; urgency=medium
 
   * Added (Suggests): code
