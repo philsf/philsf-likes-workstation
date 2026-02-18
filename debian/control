@@ -16,6 +16,7 @@ Package: philsf-likes-workstation
 Depends: ${misc:Depends}
 Recommends:
  antiword,
+ acpi,
  aptitude,
  aspell-en,
  aspell-pt,
@@ -39,6 +40,7 @@ Recommends:
  iamerican,
  mendeleydesktop,
  mlocate | locate,
+ lm-sensors,
  most,
  odt2txt,
  packaging-dev,
@@ -49,6 +51,7 @@ Recommends:
  rsync,
  samba,
  sqlite3-doc,
+ smartmontools,
  ssh,
  subversion,
  texlive-bibtex-extra,
@@ -63,6 +66,7 @@ Recommends:
  untex,
  vim,
 Suggests:
+ activity-log-manager,
  bzr,
  bzr-builddeb,
  bzr-doc,
