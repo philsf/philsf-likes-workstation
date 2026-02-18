@@ -26,7 +26,7 @@ Recommends:
  default-jdk,
  devscripts,
  dos2unix,
- ecryptfs-utils,
+ fscrypt | ecryptfs-utils,
  emacs | emacs27 | emacs26 | emacs25 | emacs24,
  equivs,
  git-all | git | git-core,
