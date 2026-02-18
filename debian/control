@@ -14,7 +14,8 @@ Package: philsf-likes-workstation
 # Maintainer: Felipe Figueiredo <philsf79@gmail.com>
 # Pre-Depends: <comma-separated list of packages>
 Depends: ${misc:Depends}
-Recommends: antiword, 
+Recommends:
+ antiword,
  aptitude,
  aspell-en,
  aspell-pt,
@@ -61,7 +62,8 @@ Recommends: antiword,
  ubuntu-standard,
  untex,
  vim,
-Suggests: bzr,
+Suggests:
+ bzr,
  bzr-builddeb,
  bzr-doc,
  bzr-git,
