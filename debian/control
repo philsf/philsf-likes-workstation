@@ -100,7 +100,7 @@ Architecture: all
 # Extra-Files: <comma-separated list of additional files for the doc directory>
 # Files: <pair of space-separated paths; First is file to include, second is destination>
 #  <more pairs, if there's more than one file to include. Notice the starting space>
-Description: Metapackage to install workstation related packages
- long description and info
- .
- second paragraph
+Description: Power-user Command Line and Development Toolkit
+A comprehensive suite for power users, researchers, and developers. This package bridges the gap between basic desktop usage and heavy-duty technical work.
+.
+It prioritizes efficient text processing (Emacs, Vim, Pandoc), version control (git, gh, rabbitvcs-nautilus), and system diagnostics (htop, smartmontools). It also includes a full LaTeX stack for academic publishing and advanced CLI utilities for automation and remote systems management via SSH.
