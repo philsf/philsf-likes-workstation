@@ -25,7 +25,7 @@ Recommends:
  colordiff,
  default-jdk,
  devscripts,
- dos2unix,
+ tofrodos | dos2unix,
  fscrypt | ecryptfs-utils,
  emacs | emacs27 | emacs26 | emacs25 | emacs24,
  equivs,
