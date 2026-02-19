@@ -77,9 +77,11 @@ Suggests:
 	bzr-svn,
 	code,
 	dvc,
+	forensics-all,
 	git-doc,
 	git-svn,
 	gnuplot,
+	harden-doc,
 	magit,
 	mendeleydesktop,
 	nautilus-bzr,
@@ -91,6 +93,8 @@ Suggests:
 	psh | libdevel-repl-perl,
 	subversion,
 	sqlite3 | sqlite3-doc,
+	ufw,
+	usg,
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
 Architecture: all
