@@ -1,8 +1,8 @@
-philsf-likes-workstation (0.3.12) UNRELEASED; urgency=medium
+philsf-likes-workstation (0.3.12) noble; urgency=medium
 
   * Retrofit: major update to fix various dependencies
 
- -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 25 Feb 2026 16:29:49 -0300
+ -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 25 Feb 2026 16:32:46 -0300
 
 philsf-likes-workstation (0.3.11) jammy; urgency=medium
 
