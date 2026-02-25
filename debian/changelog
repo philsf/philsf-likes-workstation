@@ -1,9 +1,9 @@
-philsf-likes-workstation (0.3.13) UNRELEASED; urgency=medium
+philsf-likes-workstation (0.3.13) noble; urgency=medium
 
   * Recommends: apt-file, imagemagick, lm-sensors, rename, libpam-fscrypt
   * Suggests: ctxusb, icaclient,
 
- -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 25 Feb 2026 18:36:04 -0300
+ -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 25 Feb 2026 18:41:29 -0300
 
 philsf-likes-workstation (0.3.12) noble; urgency=medium
 
