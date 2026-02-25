@@ -1,6 +1,7 @@
 philsf-likes-workstation (0.3.13) UNRELEASED; urgency=medium
 
   * Recommends: apt-file, imagemagick, lm-sensors, rename,
+  * Suggests: ctxusb, icaclient,
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 25 Feb 2026 18:36:04 -0300
 
