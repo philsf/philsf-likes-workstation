@@ -24,7 +24,6 @@ Recommends:
 	aspell-pt,
 	build-essential,
 	byobu,
-	colordiff,
 	default-jdk,
 	devscripts,
 	tofrodos | dos2unix,
