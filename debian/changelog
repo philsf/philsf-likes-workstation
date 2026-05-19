@@ -1,6 +1,6 @@
 philsf-likes-workstation (0.3.13) noble; urgency=medium
 
-  * Added (Recommends): apt-file, lm-sensors, rename, libpam-fscrypt
+  * Added (Recommends): apt-file, lm-sensors, rename, lsb-base, libpam-fscrypt
   * Added (Suggests): imagemagick,
   * Removed (Recommends): colordiff
   * Demoted (Suggests): ctxusb, icaclient,

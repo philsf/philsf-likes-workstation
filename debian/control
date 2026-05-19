@@ -44,7 +44,7 @@ Recommends:
 	curl,
 	lm-sensors,
 	locate | plocate | mlocate,
-	lsb,
+	lsb-base,
 	most,
 	odt2txt,
 	packaging-dev,
