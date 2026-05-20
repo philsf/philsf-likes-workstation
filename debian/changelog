@@ -1,3 +1,9 @@
+philsf-likes-workstation (0.3.15) noble; urgency=medium
+
+  * Added (Suggests): dconf-editor
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 20 May 2026 19:01:03 -0300
+
 philsf-likes-workstation (0.3.14) noble; urgency=medium
 
   Packages list overhaul: preparation for deb infrastructure upgrade.

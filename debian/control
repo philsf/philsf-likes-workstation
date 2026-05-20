@@ -51,6 +51,7 @@ Suggests:
 	adb,
 	fastboot,
 	heimdall-flash | heimdall-flash-frontend,
+	dconf-editor,
 	gnome-activity-journal,
 	activity-log-manager,
 	bzr,
