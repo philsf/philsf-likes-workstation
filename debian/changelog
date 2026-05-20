@@ -1,5 +1,9 @@
 philsf-likes-workstation (0.3.14) UNRELEASED; urgency=medium
 
+  Packages list overhaul: preparation for deb infrastructure upgrade.
+  Most diagnostics and CLI apps were moved to -workstation or the new -sysadmin.
+  List was clean in preparation for v1.0.0.
+
  -- Felipe Figueiredo <philsf79@gmail.com>  Tue, 19 May 2026 23:58:59 -0300
 
 philsf-likes-workstation (0.3.13) noble; urgency=medium
