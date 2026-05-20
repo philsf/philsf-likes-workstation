@@ -1,3 +1,11 @@
+philsf-likes-workstation (0.3.14) noble; urgency=medium
+
+  Packages list overhaul: preparation for deb infrastructure upgrade.
+  Most diagnostics and CLI apps were moved to -workstation or the new -sysadmin.
+  List was clean in preparation for v1.0.0.
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 20 May 2026 06:03:39 -0300
+
 philsf-likes-workstation (0.3.13) noble; urgency=medium
 
   * Added (Recommends): apt-file, lm-sensors, rename, lsb-base, libpam-fscrypt
