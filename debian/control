@@ -1,81 +1,72 @@
-### Commented entries have reasonable defaults.
-### Uncomment to edit them.
 Source: philsf-likes-workstation
 Section: metapackages
 Priority: optional
 Maintainer: Felipe Figueiredo <philsf79@gmail.com>
-# Homepage: <enter URL here; no default>
-Build-Depends: debhelper (>= 7), germinate
-Standards-Version: 3.9.4
-
+Rules-Requires-Root: no
+Build-Depends: debhelper-compat (= 13),
+Standards-Version: 4.6.2
+# Homepage: <insert the upstream URL, if relevant>
+Vcs-Browser: https://code.launchpad.net/~philsf/+git/philsf-likes-workstation
+Vcs-Git: https://git.launchpad.net/~philsf/+git/philsf-likes-workstation
 
 Package: philsf-likes-workstation
-# Version: defaults to changelog version
-# Maintainer: Felipe Figueiredo <philsf79@gmail.com>
-# Pre-Depends: <comma-separated list of packages>
-Depends: ${misc:Depends}
-Recommends:
-	antiword,
-	apt-file,
-	aptitude,
-	build-essential,
-	byobu,
-	default-jdk-headless | default-jdk,
-	devscripts,
-	tofrodos | dos2unix,
-	libpam-fscrypt | ecryptfs-utils,
-	emacs,
-	git | git-core,
-	gh | hub,
-	btop | htop,
-	iamerican,
-	ibrazilian,
-	iportuguese,
-	imagemagick,
-	lynx | elinks,
-	curl,
-	lm-sensors,
-	locate | plocate,
-	lsb-base,
-	odt2txt,
-	pandoc,
-	rename,
-	rsync,
-	smbclient,
-	ssh,
-	ubuntu-minimal,
-	ubuntu-standard,
-	untex,
-	vim,
-Suggests:
-	adb,
-	fastboot,
-	heimdall-flash | heimdall-flash-frontend,
-	dconf-editor,
-	gnome-activity-journal,
-	activity-log-manager,
-	bzr,
-	code,
-	ctxusb,
-	icaclient,
-	dh-make | packaging-dev,
-	git-all,
-	git-doc,
-	gnuplot,
-	hardinfo,
-	magit,
-	rabbitvcs-nautilus,
-	sqlite3 | sqlite3-doc,
-# Provides: <comma-separated list of packages>
-# Replaces: <comma-separated list of packages>
 Architecture: all
-# Copyright: <copyright file; defaults to GPL2>
-# Changelog: <changelog file; defaults to a generic changelog>
-# Readme: <README.Debian file; defaults to a generic one>
-# Extra-Files: <comma-separated list of additional files for the doc directory>
-# Files: <pair of space-separated paths; First is file to include, second is destination>
-#  <more pairs, if there's more than one file to include. Notice the starting space>
-Description: Power-user Command Line and Development Toolkit
- A comprehensive suite for power users, researchers, and developers. This package bridges the gap between basic desktop usage and heavy-duty technical work.
+Multi-Arch: foreign
+Depends: ${misc:Depends},
+Recommends:
+ antiword,
+ apt-file,
+ aptitude,
+ build-essential,
+ byobu,
+ default-jdk-headless | default-jdk,
+ devscripts,
+ tofrodos | dos2unix,
+ libpam-fscrypt | ecryptfs-utils,
+ emacs,
+ git | git-core,
+ gh | hub,
+ btop | htop,
+ iamerican,
+ ibrazilian,
+ iportuguese,
+ imagemagick,
+ lynx | elinks,
+ curl,
+ lm-sensors,
+ locate,
+ lsb-base,
+ odt2txt,
+ pandoc,
+ rename,
+ rsync,
+ smbclient,
+ ssh,
+ ubuntu-minimal,
+ ubuntu-standard,
+ untex,
+ vim,
+Suggests:
+ adb,
+ fastboot,
+ heimdall-flash | heimdall-flash-frontend,
+ dconf-editor,
+ gnome-activity-journal,
+ activity-log-manager,
+ bzr,
+ code,
+ ctxusb,
+ icaclient,
+ dh-make | packaging-dev,
+ git-all,
+ git-doc,
+ gnuplot,
+ hardinfo,
+ magit,
+ rabbitvcs-nautilus,
+ sqlite3 | sqlite3-doc,
+Description: philsf's research workstation toolkit
+ Metapackage for a general development environment for researchers.
  .
- It prioritizes efficient text processing (Emacs, Vim, Pandoc), version control (git, gh, rabbitvcs-nautilus), and system diagnostics (htop, smartmontools). It also includes a full LaTeX stack for academic publishing and advanced CLI utilities for automation and remote systems management via SSH.
+ It is designed to include essential development tools, version control,
+ and basic system diagnostics for power-users.

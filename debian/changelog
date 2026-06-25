@@ -1,3 +1,9 @@
+philsf-likes-workstation (0.4.0) resolute; urgency=medium
+
+  * INFRA: upgrade control and rules to new metapackage structure
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 25 Jun 2026 19:45:30 -0300
+
 philsf-likes-workstation (0.3.15) noble; urgency=medium
 
   * Added (Suggests): dconf-editor
