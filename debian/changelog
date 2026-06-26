@@ -1,5 +1,6 @@
 philsf-likes-workstation (0.4.1) UNRELEASED; urgency=medium
 
+  * Added (Recommends): git-gui | gitk,
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 25 Jun 2026 22:06:26 -0300
 

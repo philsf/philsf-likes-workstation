@@ -25,6 +25,7 @@ Recommends:
  libpam-fscrypt | ecryptfs-utils,
  emacs,
  git | git-core,
+ git-gui | gitk,
  gh | hub,
  btop | htop,
  iamerican,
